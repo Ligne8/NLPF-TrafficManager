@@ -1,4 +1,7 @@
-### Flask template
+#Manjaro"## Flask template
+data/
+.idea/
+__pycache__*
 instance/*
 !instance/.gitignore
 .webassets-cache
